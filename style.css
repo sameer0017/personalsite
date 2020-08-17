@@ -1,0 +1,19 @@
+body{
+    background-color:floralwhite;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr{
+    background-color:white;
+    border: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+}
+h1,h2,h3,h4{
+    color:#66BFBF;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
